@@ -1,7 +1,7 @@
 <html>
 
 <body>
-  <title>VIVEK CHAND NIRALA f84f7065</title>
+  <title>f84f7065</title>
   <h1>Welcome to my guessing game</h1>
 
   <?php
